@@ -344,7 +344,7 @@
 }
 
 .footer__columns {
-  color: #fff;
+  color: white;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -385,7 +385,7 @@
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: end;
+  align-items: center;
   column-gap: 10px;
 }
 
