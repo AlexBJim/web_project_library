@@ -116,7 +116,7 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
-  list-style-type: none;
+
   margin-top: 68px;
   padding-left: 0;
   margin-bottom: 0;
@@ -148,7 +148,7 @@
 .card__text {
   margin: 20px 0 0;
   font-size: 16px;
-  line-height: 20px;
+  line-height: 24px;
 }
 
 .card__footer {
