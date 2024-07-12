@@ -114,9 +114,9 @@
   margin: auto;
   display: flex;
   flex-wrap: wrap;
+  list-style-type: none;
   justify-content: center;
   gap: 40px;
-
   margin-top: 68px;
   padding-left: 0;
   margin-bottom: 0;
@@ -355,8 +355,6 @@
 }
 
 .footer__column_content_hours {
-  display: flex;
-  flex-direction: column;
   margin-left: auto;
 }
 
@@ -380,7 +378,6 @@
 }
 
 .footer__list-item {
-  margin: auto;
   margin-top: 20px;
   margin-bottom: 16px;
 }
@@ -389,7 +386,6 @@
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: center;
   column-gap: 10px;
 }
 
@@ -400,6 +396,5 @@
 }
 
 .footer__copyright {
-  color: #fff;
   margin-top: 100px;
 }
